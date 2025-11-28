@@ -42,7 +42,7 @@ let trackSteps = 150;
 
 // Carro: parâmetro ao longo da curva
 let carT = 0;           // parâmetro [0,1)
-let carSpeed = 0.00015; // delta t por ms
+let carSpeed = 0.00005; // delta t por ms
 let carSpeedMin = 0;
 let carSpeedMax = 0.0005;
 
