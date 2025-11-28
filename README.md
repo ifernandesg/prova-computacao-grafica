@@ -23,7 +23,7 @@ Criar uma corrida paramétrica 3D com:
 ## 3. Como Executar
 ### 1. Baixe ou clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/seu-repositorio.git
+git clone https://github.com/ifernandesg/prova-computacao-grafica.git
 ```
 
 ### 2. Execute:
