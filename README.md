@@ -1,5 +1,4 @@
-# Corrida Paramétrica 3D — Bézier vs B-Spline  
-### Prova Prática — Computação Gráfica (FUCAPI)
+# Prova Prática
 
 Este projeto implementa uma simulação 3D interativa utilizando **p5.js + WEBGL**, apresentando comparação entre curvas paramétricas (Bézier e B-Spline), câmeras distintas e objetos paramétricos seguindo a pista.  
 O trabalho atende a todos os itens obrigatórios do roteiro.
