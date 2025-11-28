@@ -5,10 +5,12 @@ Este projeto implementa uma simulação 3D interativa utilizando **p5.js + WEBGL
 O trabalho atende a todos os itens obrigatórios do roteiro.
 
 ## 1. Tecnologias Utilizadas
+- VSCode
 - JavaScript
 - p5.js (WEBGL)
 - Curvas Bézier cúbicas
 - Curvas B-Spline cúbicas
+- Extensão Live Server no VSCode
 
 ## 2. Objetivo
 Criar uma corrida paramétrica 3D com:
@@ -27,12 +29,15 @@ git clone https://github.com/SEU-USUARIO/seu-repositorio.git
 ```
 
 ### 2. Execute:
-Basta abrir o arquivo:
+Instale a extensão Live Server no VSCode
+
+### 3. 
+Basta abrir o arquivo, clicar com o botão direito em algum lugar do arquivo e selecionar Open with Live Server:
 ```
 index.html
 ```
 
-## 4. Controles
+## 3. Controles
 
 ### Movimentação
 | Tecla | Função |
@@ -54,21 +59,18 @@ index.html
 | F | Ativar/desativar frustum culling |
 | H | Mostrar/ocultar HUD |
 
-## 5. Funcionalidades Implementadas
+## 4. Funcionalidades Implementadas
 
-### ✔ Pista paramétrica (Bézier e B-Spline)
-### ✔ Carro paramétrico
-### ✔ Câmera principal (perspective)
-### ✔ Mini-mapa (orthographic)
-### ✔ Checkpoints e voltas
-### ✔ Pista texturizada
-### ✔ Objetos estáticos no cenário
-### ✔ HUD completo
+### Pista paramétrica (Bézier e B-Spline)
+### Carro paramétrico
+### Câmera principal (perspective)
+### Mini-mapa (orthographic)
+### Checkpoints e voltas
+### Pista texturizada
+### Objetos estáticos no cenário
+### HUD completo
 
-## 6. Captura de Tela
-Adicione sua captura na pasta `/docs`.
-
-## 7. Estrutura do Projeto
+## 5. Estrutura do Projeto
 ```
 /
 ├── index.html
@@ -76,12 +78,11 @@ Adicione sua captura na pasta `/docs`.
 └── src/
     ├── sketch.js
     ├── asphalt.png
-    └── ...
 ```
 
-## 8. Autor
-**Lívia Gonçalves**  
+## 6. Autor
+**Igor Fernandes Gonçalves**  
 Disciplina: Computação Gráfica — FUCAPI
 
-## 9. Licença
+## 7. Licença
 Projeto acadêmico. Uso livre para fins educacionais.
